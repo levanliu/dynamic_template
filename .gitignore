@@ -1,0 +1,5 @@
+bazel-bin
+bazel-dynamic_template
+bazel-out
+bazel-testlogs
+.cache
