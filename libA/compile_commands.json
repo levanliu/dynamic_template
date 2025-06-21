@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-fPIC",
+      "-I.",
+      "-o",
+      "libA.so",
+      "libA.cpp"
+    ],
+    "directory": "/home/levanliu/Documents/dynamic_template/libA",
+    "file": "/home/levanliu/Documents/dynamic_template/libA/libA.cpp",
+    "output": "/home/levanliu/Documents/dynamic_template/libA/libA.so"
+  }
+]

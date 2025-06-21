@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/Users/levan/Documents/dynamic_template/tcapi/../libraryB",
+      "-o",
+      "tcapi",
+      "main.cpp"
+    ],
+    "directory": "/Users/levan/Documents/dynamic_template/tcapi",
+    "file": "/Users/levan/Documents/dynamic_template/tcapi/main.cpp",
+    "output": "/Users/levan/Documents/dynamic_template/tcapi/tcapi"
+  }
+]
