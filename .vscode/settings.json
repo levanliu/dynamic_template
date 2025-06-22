@@ -1,9 +1,8 @@
 {
   "C_Cpp.intelliSenseEngine": "disabled",
         
-    "clangd.path": "/home/levanliu/.vscode-server/data/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/19.1.2/clangd_19.1.2/bin/clangd",
+    "clangd.path": "/home/levanliu/.local/share/nvim/mason/bin/clangd",
     "clangd.arguments": ["-log=verbose", 
                          "-pretty", 
-                         "--background-index", 
-                         "--compile-commands-dir=${workspaceFolder}"]
+                         "--background-index",]
 }
